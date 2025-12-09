@@ -10,7 +10,7 @@ My project is divided into two main parts:
 - data cleaning
 - I had to resolve special cases of cities whose names refer to other things (e.g., Lom, Solnice)
 
-2. Creating a semantic map of cities
+2. Creating the Semantic Map of cities
 - keyword extraction: I extracted keywords that make each city “unique” using TF-iDF
 - creating an embedding using a sentence transformer
 - reducing the dimension using U-MAP
@@ -27,7 +27,9 @@ The main result of the project is the interactive semantic map of Czech cities w
 My notes:
 
 - I believe that my project is based on a truly interesting idea and has some interesting results, but for it to be used more effectively, it is necessary to use other sources besides Wikipedia and, possibly, divide this task into several subtasks in order to cover the entire complexity of this "real-world position -> the problem in the semantic coordinates".
-- Further operations with the input data (e.g. summarization of info about each city) could benefit in more clear and precise results.
+- Further operations with the input data (e.g. summarization of info about each city) could benefit in more clear and precise results. This requires further experiments.
+- This was a truly exciting project.
 
 
-- Yevhenii Kaprizenkov
+(c) Yevhenii Kaprizenkov
+
